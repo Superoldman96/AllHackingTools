@@ -39,7 +39,7 @@
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
 
-## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
+## New features:
 
 **1) New Tools And functions**
 - New tools for penetration testing. And many new opportunities.
@@ -64,7 +64,7 @@
 
 ---
 <a id="installing"></a>
-## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+## Installing
 
 ```
 #Upgrade all & full packages
@@ -102,7 +102,7 @@ ngrok http 80
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
-## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
+## AllHackingTool Menu:
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
@@ -232,7 +232,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+#### Do you need help? Write me on: developer.mishakorzhik@gmail.com
 #### And I will consider your letter and problem!
 
 ```bash
@@ -250,7 +250,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: developer.mishakorzhik@gmail.com
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -372,9 +372,9 @@ Desing:
 ## Dependencies
 #### If all this is then you can download!
 
-**Root     : NO ROOT**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
-**Storage  : 2200 MB**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
-**Internet : must be**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
+**Root     : NO ROOT** <br>
+**Storage  : 2200 MB** <br>
+**Internet : must be** <br>
 
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
@@ -400,7 +400,7 @@ Desing:
 
 ---
 
-## Screenshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
+## Screenshot
 #### view a screenshot for AllHackingTools
 <br>
 <p align="center">
